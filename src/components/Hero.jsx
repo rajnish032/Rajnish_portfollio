@@ -139,7 +139,7 @@ const Hero = () => {
 
   {/* Resume Button */}
   <a
-    href="https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing"
+    href="https://drive.google.com/file/d/1FBndMZZkcaO6brxI82ydfGPjPTcmzMPQ/view?usp=sharing"
     target="_blank"
     rel="noopener noreferrer"
     className="w-full"
@@ -319,7 +319,7 @@ const Hero = () => {
 </a>
 
             <a
-  href="https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing"
+  href="https://drive.google.com/file/d/1FBndMZZkcaO6brxI82ydfGPjPTcmzMPQ/view?usp=sharing"
   target="_blank"
   rel="noopener noreferrer"
   className="group px-8 py-4 rounded-2xl
