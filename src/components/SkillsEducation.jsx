@@ -37,8 +37,8 @@ const education = [
   },
   {
     year: "2021 — 2023",
-    title: "Higher Secondary",
-    place: "Your School",
+    title: "Class XII, Bihar School Examination Board",
+    place: "Swami Sahjanand College, Jehanabad",
   },
 ];
 
